@@ -1,0 +1,13 @@
+
+n
+java:S1104"QMake brand a static final constant or non-public and provide accessors if needed.(ü“ÀÆ8¹¶òÁÑ2
+s
+java:S1104"QMake price a static final constant or non-public and provide accessors if needed.(ë­‡ìıÿÿÿÿ8ÿØòÁÑ2
+m
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.(Ã¼ê‚8ïùòÁÑ2
+G
+java:S1444"*Make this "public static name" field final(Ã¼ê‚8ïùòÁÑ2
+U	java:S106"9Replace this use of System.out or System.err by a logger.(İÊİö8ÓÎéÁÑ2
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(İ™Ë°üÿÿÿÿ8ÔÎéÁÑ2
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Şøê™ÿÿÿÿÿ8ÖÎéÁÑ2
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Âî¢ç8×ÎéÁÑ2
