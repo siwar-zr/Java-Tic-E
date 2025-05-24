@@ -43,3 +43,43 @@ I
 src/Abstraction/Demo.java,6\4\64ed9e987f0d930b5fd17d0b7f3928af7f4f768a
 Q
 !src/FunctionalInterface/Demo.java,f\0\f0ef868161c27886ed7e6f4197079f2f86b15a9b
+H
+src/Exceptions/Demo.java,d\7\d7705deb4f0a567e3c1d8e4fa0632a4eae84dc7f
+e
+5src/Exceptions/ExerciceDevise/DeviseIncompatible.java,7\8\78d84953223245885d730929ac5b6865cbe05cc1
+^
+.src/Exceptions/ExerciceDevise/TestMonnaie.java,8\4\84dadd6ba5a5c03bbc5391cd9b163abd3c141f7d
+Z
+*src/Exceptions/ExerciceDevise/Monnaie.java,1\5\1514a55b5e0dfec512a63e1d1276221356bfbf37
+]
+-src/Exceptions/Seriesexercices/Exercice1.java,1\4\14e7a3ebba65440fccd66f6ba7c319cb5873f257
+]
+-src/Exceptions/Seriesexercices/Exercice2.java,4\9\49d63e9a2636a332b591a6bd4b670ddf94a934af
+]
+-src/Exceptions/Seriesexercices/Exercice3.java,e\d\ed6078fa6b04dff92c0f4140ca2284974da50315
+]
+-src/Exceptions/Seriesexercices/Exercice4.java,f\0\f0ae4f5c49f8a60f5fecd0f6333a639a436b084d
+P
+ src/generics/IntegerPrinter.java,9\5\95d82a6f2ee094510dc9ce90bd09d06797310d21
+O
+src/generics/DoublePrinter.java,8\3\83693c7ac1ce08e8d0181b1cd4d68369366c9d86
+O
+src/generics/StringPrinter.java,4\0\40bf3bd47625680b7790e355dad2dc786c06eeb9
+I
+src/generics/Printer.java,1\f\1fcccc62ee9e2bf40891aee1c5444f0147225d0a
+Q
+!src/generics/GenericsExemple.java,d\3\d37042d87eca90379066907f8c9a8556ae728f42
+K
+src/CollectionApi/Demo.java,9\a\9a4b6485170d973e72b0f98b92248ebe4c37151d
+Q
+!src/CollectionApi/MapExemple.java,9\e\9ee31e35d58ed24a6d5d7b49c177d4f061c67116
+G
+src/StreamApi/Demo.java,d\2\d2aa653575483b4e090729ef252f91050a5c1dfe
+N
+src/GarbageCollector/Demo.java,7\d\7d9245891c9564cd619dbcd229edfcebecb05d63
+F
+src/revision/Demo.java,0\c\0c504c281eaf231bf233a36521cc5737e352a195
+P
+ src/revision/CompteBancaire.java,9\6\968df31b747f534b4072545ca09a77a4b40eaae0
+F
+src/revision/Main.java,5\0\5002fddfa5ae8319ebbac3be21492e4906f5decc
